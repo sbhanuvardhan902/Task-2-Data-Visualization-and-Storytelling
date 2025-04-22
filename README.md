@@ -21,10 +21,8 @@ Visualizations
 - Customer Segment Analysis (Stacked Column Chart)
 
 Files Included
-- `Superstore.csv`  
+- `Superstore.csv`-raw,cleaned
 - Dashboard screenshots  
-- Visual report (PDF)  
-- Tableau/Power BI file  
 - This README
 
 Outcome
